@@ -4,7 +4,7 @@ LINK VIDEO DEMO PROYEK PA 1
 
 Dibuat Oleh :
 Nim	Nama Mahasiswa
-13320008	Josua Panggabean
+13320007	Josua Panggabean
 13320019	Samuel N P Sianipar
 13320023	Paul Nainggolan
 
